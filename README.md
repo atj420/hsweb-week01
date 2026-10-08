@@ -1,2 +1,0 @@
-# hsweb-week01
-hsweb-week01:한신대학교 웹프로그래밍 1주차 학습기록
